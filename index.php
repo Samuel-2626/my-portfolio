@@ -88,8 +88,9 @@
     <div class="container projects">
       <div class="mt-5">
         <h2 class="text-center">Projects I work On</h2>
+        <br>
         <div class="row">
-          <div class="col-md-3 project m-4">
+          <div class="col-md-6 col-lg-4 project pb-5">
           <div class="card" style="width: 18rem;">
   <img src="images/nesa_academy.jpg" class="card-img-top" alt="Nesa Academy">
   <div class="card-body">
@@ -97,7 +98,7 @@
   </div>
 </div>
           </div>
-          <div class="col-md-3 project m-4">
+          <div class="col-md-6 col-lg-4 project pb-5">
           <div class="card" style="width: 18rem;">
   <img src="images/shekelsfieldnig.jpg" class="card-img-top" alt="Shekelsfield Nigeria Limited">
   <div class="card-body">
@@ -105,7 +106,7 @@
   </div>
 </div>
           </div>
-          <div class="col-md-3 project m-4">
+          <div class="col-md-6 col-lg-4 project pb-5">
           <div class="card" style="width: 18rem;">
   <img src="images/academic_website.jpg" class="card-img-top" alt="Academic website">
   <div class="card-body">
@@ -113,7 +114,7 @@
   </div>
 </div>
           </div>
-          <div class="col-md-3 project m-4">
+          <div class="col-md-6 col-lg-4 project pb-5">
           <div class="card" style="width: 18rem;">
   <img src="images/acrye.jpg" class="card-img-top" alt="ACRYE">
   <div class="card-body">
@@ -126,6 +127,8 @@
       </div>
     </div>
     </div>
+
+    <br>
 
     <div data-target="#navbar-example2" data-spy="scroll" id="articles">
     <div class="container">
