@@ -55,7 +55,8 @@
             <h1>Hello there!</h1>
             <p>
             My name is Samuel Torimiro. I am a passionate full-stack developer and technical writer. 
-            I aim to build web and mobile applications to serve hundreds of millions of customers better.
+            I aim to build web and mobile applications to better serve hundreds of millions of customers.
+
             </p>     
             <p class="p_blockquote">
             <strong>DevSam</strong> - Software Engineer
