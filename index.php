@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="main.css">
     <meta name="author" content="Samuel Torimrio">
     <meta name="description" content="I build full-stack web applications. I have experience in numerous programming languages, frameworks, and web tools, including Python, JavaScript, Django, Django REST framework, React, PHP, Docker, and Git. Additionally, I research and write technical content that resonates with developers.">
     <meta name="keywords" content=" Samuel Torimiro, Software Engineer, Technical Writer">
@@ -75,10 +75,10 @@
     <div class="about pt-4 p-2">
       <h2 class="text-center pb-2">About Me</h2>
       <ul>
-        <li>Software Engineer and Technical writer at Tridens Technology.</li>
+        <li>Software Engineer and Technical writer at <a href="https://tridenstechnology.com/">Tridens Technology</a></li>
         <li>Started web development at age 15</li>
         <li>Written over 10+ tech articles/tutorials</li>
-        <li>Published a course on Educative Inc.</li>
+        <li>Published a course on <a href="https://www.educative.io/courses/building-robust-applications-test-driven-development-django">Educative Inc.</a></li>
       </ul>
     </div>
     </div>
