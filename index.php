@@ -65,7 +65,7 @@
 <br>
 <br>
 
-<a href="download.php?file=Samuel Torimiro Resume.pdf" class="btn btn-lg">Download Resume</a>
+<a href="download.php?file=Samuel Torimiro Resume.pdf" class="btn btn-lg">Download Resume <i class="fa fa-download"></i></a>
           </div>
         </div>
       </div>
@@ -97,8 +97,8 @@
   <div class="card-body">
     <h5 class="card-title">Nesa Academy</h5>
     <p class="card-text mt-3">Django, Django REST Framework, Auth0, HTML, CSS, JS, and Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
-    <a href="https://nesaacademy.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+    <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://nesaacademy.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -108,8 +108,8 @@
   <div class="card-body">
     <h5 class="card-title">Shekelsfield Nig. Ltd.</h5>
     <p class="card-text mt-3">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
-    <a href="https://shekelsfieldnig.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+    <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://shekelsfieldnig.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -119,8 +119,8 @@
   <div class="card-body">
     <h5 class="card-title">Academic Website</h5>
     <p class="card-text mt-3">PHP, JavaScript, HTML, CSS, and MaterializeCSS.</p>
-    <a href="https://github.com/Samuel-2626/academic-website" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
-    <a href="https://professortorimiro.info/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+    <a href="https://github.com/Samuel-2626/academic-website" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://professortorimiro.info/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -130,8 +130,8 @@
   <div class="card-body">
     <h5 class="card-title">ACRYE</h5>
     <p class="card-text mt-3">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/acrye" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
-    <a href="https://acrye-ng.org/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+    <a href="https://github.com/Samuel-2626/acrye" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://acrye-ng.org/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -143,8 +143,8 @@
     <h5 class="card-title">PennyTrust Inc.</h5>
 
       <p class="card-text mt-3">Django, Django REST Framework, React, HTML, CSS, and Bootstrap.</p>
-      <a href="https://github.com/Samuel-2626/PennyTrust-Frontend" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
-      <a href="https://serene-volhard-8a0ea8.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+      <a href="https://github.com/Samuel-2626/PennyTrust-Frontend" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
+      <a href="https://serene-volhard-8a0ea8.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
     </div>
 </div>
           </div>
@@ -155,8 +155,8 @@
   <div class="card-body">
     <h5 class="card-title">Calculator.This</h5>
     <p class="card-text mt-3">JavaScript, HTML, CSS, and &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/calculate.this" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
-    <a href="https://thisdotcalculate.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+    <a href="https://github.com/Samuel-2626/calculate.this" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://thisdotcalculate.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
     </div>
 </div>
           </div>
