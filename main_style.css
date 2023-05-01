@@ -70,6 +70,14 @@ main ul li {
     text-decoration: underline;
 }
 
+.projects h5 {
+    color: #6679B6 !important;
+}
+
+.projects p {
+    color: #A8B0C8;
+}
+
 .articles {
     background-color: white;
 }
@@ -81,4 +89,8 @@ main ul li {
 
 .about a:hover {
     text-decoration: underline;
+}
+
+.card-text {
+    font-size: small;
 }

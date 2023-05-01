@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="main_style.css">
     <meta name="author" content="Samuel Torimrio">
     <meta name="description" content="I build full-stack web applications. I have experience in numerous programming languages, frameworks, and web tools, including Python, JavaScript, Django, Django REST framework, React, PHP, Docker, and Git. Additionally, I research and write technical content that resonates with developers.">
     <meta name="keywords" content=" Samuel Torimiro, Software Engineer, Technical Writer">
@@ -59,7 +59,7 @@
 
             </p>     
             <p class="p_blockquote">
-            <strong>DevSam</strong> - Software Engineer
+            <strong>DevSam</strong> - Software engineer & Technical writer
 </p>
 
 <br>
@@ -88,14 +88,17 @@
 
     <div class="container projects">
       <div class="mt-5">
-        <h2 class="text-center">Projects I work On</h2>
+        <h2 class="text-center">Projects I work(ed) On</h2>
         <br>
         <div class="row">
           <div class="col-md-6 col-lg-4 project pb-5">
           <div class="card" style="width: 18rem;">
   <img src="images/nesa_academy.jpg" class="card-img-top" alt="Nesa Academy">
   <div class="card-body">
-    <h5 class="card-title"><a href="https://nesaacademy.com/">Nesa Academy</a> <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a></h5>
+    <h5 class="card-title">Nesa Academy</h5>
+    <p class="card-text mt-3">Django, Django REST Framework, Auth0, HTML, CSS, JS, and Bootstrap.</p>
+    <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
+    <a href="https://nesaacademy.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
   </div>
 </div>
           </div>
@@ -103,7 +106,10 @@
           <div class="card" style="width: 18rem;">
   <img src="images/shekelsfieldnig.jpg" class="card-img-top" alt="Shekelsfield Nigeria Limited">
   <div class="card-body">
-    <h5 class="card-title"><a href="https://shekelsfieldnig.com/">Shekelsfield Nig. Ltd.</a> <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a></</h5>
+    <h5 class="card-title">Shekelsfield Nig. Ltd.</h5>
+    <p class="card-text mt-3">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
+    <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
+    <a href="https://shekelsfieldnig.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
   </div>
 </div>
           </div>
@@ -111,7 +117,10 @@
           <div class="card" style="width: 18rem;">
   <img src="images/academic_website.jpg" class="card-img-top" alt="Academic website">
   <div class="card-body">
-    <h5 class="card-title"><a href="https://professortorimiro.info/">Academic Website</a> <a href="https://github.com/Samuel-2626/academic-website" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a></</h5>
+    <h5 class="card-title">Academic Website</h5>
+    <p class="card-text mt-3">PHP, JavaScript, HTML, CSS, and MaterializeCSS.</p>
+    <a href="https://github.com/Samuel-2626/academic-website" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
+    <a href="https://professortorimiro.info/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
   </div>
 </div>
           </div>
@@ -119,8 +128,36 @@
           <div class="card" style="width: 18rem;">
   <img src="images/acrye.jpg" class="card-img-top" alt="ACRYE">
   <div class="card-body">
-    <h5 class="card-title"><a href="https://acrye-ng.org/">ACRYE</a> <a href="https://github.com/Samuel-2626/acrye" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a></</h5>
+    <h5 class="card-title">ACRYE</h5>
+    <p class="card-text mt-3">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
+    <a href="https://github.com/Samuel-2626/acrye" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
+    <a href="https://acrye-ng.org/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
   </div>
+</div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 project pb-5">
+          <div class="card" style="width: 18rem;">
+  <img src="images/pennytrust.png" class="card-img-top" alt="PennyTrust">
+  <div class="card-body">
+    <h5 class="card-title">PennyTrust Inc.</h5>
+
+      <p class="card-text mt-3">Django, Django REST Framework, React, HTML, CSS, and Bootstrap.</p>
+      <a href="https://github.com/Samuel-2626/PennyTrust-Frontend" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
+      <a href="https://serene-volhard-8a0ea8.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+    </div>
+</div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 project pb-5">
+          <div class="card" style="width: 18rem;">
+  <img src="images/calculator.this.jpg" class="card-img-top" alt="Calculator.this">
+  <div class="card-body">
+    <h5 class="card-title">Calculator.This</h5>
+    <p class="card-text mt-3">JavaScript, HTML, CSS, and &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap.</p>
+    <a href="https://github.com/Samuel-2626/calculate.this" style="float: right;"><i class="fa fa-github" style="font-size:30px"></i></a>
+    <a href="https://thisdotcalculate.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:30px"></i></a>
+    </div>
 </div>
           </div>
 
