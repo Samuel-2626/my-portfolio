@@ -96,7 +96,7 @@
   <img src="images/nesa_academy.jpg" class="card-img-top" alt="Nesa Academy">
   <div class="card-body">
     <h5 class="card-title">Nesa Academy</h5>
-    <p class="card-text mt-3">Django, Django REST Framework, Auth0, HTML, CSS, JS, and Bootstrap.</p>
+    <p class="card-text mt-1">Django, Django REST Framework, Auth0, HTML, CSS, JS, and Bootstrap.</p>
     <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://nesaacademy.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
@@ -107,7 +107,7 @@
   <img src="images/shekelsfieldnig.jpg" class="card-img-top" alt="Shekelsfield Nigeria Limited">
   <div class="card-body">
     <h5 class="card-title">Shekelsfield Nig. Ltd.</h5>
-    <p class="card-text mt-3">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
+    <p class="card-text mt-1">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
     <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://shekelsfieldnig.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
@@ -118,7 +118,7 @@
   <img src="images/academic_website.jpg" class="card-img-top" alt="Academic website">
   <div class="card-body">
     <h5 class="card-title">Academic Website</h5>
-    <p class="card-text mt-3">PHP, JavaScript, HTML, CSS, and MaterializeCSS.</p>
+    <p class="card-text mt-1">PHP, JavaScript, HTML, CSS, and MaterializeCSS.</p>
     <a href="https://github.com/Samuel-2626/academic-website" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://professortorimiro.info/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
@@ -129,7 +129,7 @@
   <img src="images/acrye.jpg" class="card-img-top" alt="ACRYE">
   <div class="card-body">
     <h5 class="card-title">ACRYE</h5>
-    <p class="card-text mt-3">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
+    <p class="card-text mt-1">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
     <a href="https://github.com/Samuel-2626/acrye" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://acrye-ng.org/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
@@ -138,11 +138,11 @@
 
           <div class="col-md-6 col-lg-4 project pb-5">
           <div class="card" style="width: 18rem;">
-  <img src="images/pennytrust.png" class="card-img-top" alt="PennyTrust">
+  <img src="images/pennytrust.jpg" class="card-img-top" alt="PennyTrust">
   <div class="card-body">
     <h5 class="card-title">PennyTrust Inc.</h5>
 
-      <p class="card-text mt-3">Django, Django REST Framework, React, HTML, CSS, and Bootstrap.</p>
+      <p class="card-text mt-1">React, Django, Django REST Framework, HTML, CSS, and Bootstrap.</p>
       <a href="https://github.com/Samuel-2626/PennyTrust-Frontend" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
       <a href="https://serene-volhard-8a0ea8.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
     </div>
@@ -154,7 +154,7 @@
   <img src="images/calculator.this.jpg" class="card-img-top" alt="Calculator.this">
   <div class="card-body">
     <h5 class="card-title">Calculator.This</h5>
-    <p class="card-text mt-3">JavaScript, HTML, CSS, and &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap.</p>
+    <p class="card-text mt-1">JavaScript, HTML, CSS, and &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap.</p>
     <a href="https://github.com/Samuel-2626/calculate.this" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://thisdotcalculate.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
     </div>
