@@ -54,28 +54,26 @@
           <div class="col-md-8">
             <h1>Hello there!</h1>
             <p>
-            My name is Samuel Torimiro. I am a passionate full-stack developer and technical writer. 
+            My name is Samuel Torimiro. I am a passionate Software engineer and Technical writer. 
             I aim to build web and mobile applications to better serve hundreds of millions of customers.
 
             </p>     
-            <p class="p_blockquote">
-            <strong>DevSam</strong> - Software engineer & Technical writer
-</p>
 
 <br>
-<br>
 
-<a href="download.php?file=Samuel Torimiro Resume.pdf" class="btn btn-lg">Download Resume <i class="fa fa-download"></i></a>
+
+<a href="https://samueltorimiro.info/Samuel Torimiro Resume.pdf" class="btn btn-lg">My Resume</a>
           </div>
         </div>
       </div>
     </div>
+    <br>
     <div data-target="#navbar-example2" data-spy="scroll" id="about-me">
     <div class="container">
     <div class="about pt-4 p-2">
       <h2 class="text-center pb-2">About Me</h2>
       <ul>
-        <li>Software Engineer and Technical writer at <a href="https://tridenstechnology.com/">Tridens Technology</a></li>
+        <li>Software engineer and Technical writer at <a href="https://tridenstechnology.com/">Tridens Technology</a></li>
         <li>Started web development at age 15</li>
         <li>Written over 10+ tech articles/tutorials</li>
         <li>Published a course on <a href="https://www.educative.io/courses/building-robust-applications-test-driven-development-django">Educative Inc.</a></li>
