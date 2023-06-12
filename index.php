@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="main_style.css">
+    <link rel="stylesheet" href="main.css">
     <meta name="author" content="Samuel Torimrio">
     <meta name="description" content="I build full-stack web applications. I have experience in numerous programming languages, frameworks, and web tools, including Python, JavaScript, Django, Django REST framework, React, PHP, Docker, and Git. Additionally, I research and write technical content that resonates with developers.">
     <meta name="keywords" content=" Samuel Torimiro, Software Engineer, Technical Writer">
@@ -195,7 +195,7 @@
 
       
     <div class="connect text-center">
-      <h4>Connect</h4>
+      <h4>Connect with me</h4>
       <br>
       <a href="https://github.com/Samuel-2626" class="m-3"><i class="fa fa-github" style="font-size:36px; color: #6679B6;"></i></a>
       <a href="https://twitter.com/SamuelTorimiro4" class="m-3"><i class="fa fa-twitter" style="font-size:36px; color: #6679B6;"></i></a>
