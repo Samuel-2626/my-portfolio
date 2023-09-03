@@ -13,10 +13,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="main.css">
     <meta name="author" content="Samuel Torimrio">
-    <meta name="description" content="I build full-stack web applications. I have experience in numerous programming languages, frameworks, and web tools, including Python, JavaScript, Django, Django REST framework, React, PHP, Docker, and Git. Additionally, I research and write technical content that resonates with developers.">
-    <meta name="keywords" content=" Samuel Torimiro, Software Engineer, Technical Writer">
+    <meta name="description" content="Software developer experienced in Python and JavaScript.">
+    <meta name="keywords" content=" Samuel Torimiro, Software Developer">
      <meta name="robots" content="index, follow">
-    <title>Samuel Torimiro | Software Engineer & Technical Writer</title>
+    <title>Samuel Torimiro | Software Developer</title>
   </head>
   <body>
   <nav class="navbar navbar-expand-lg navbar-light" id="navbar-example2">
@@ -54,8 +54,7 @@
           <div class="col-md-8">
             <h1>Hello there!</h1>
             <p>
-            My name is Samuel Torimiro. I am a passionate Software engineer and Technical writer. 
-            I aim to build web and mobile applications to better serve hundreds of millions of customers.
+            My name is Samuel Torimiro, I am a passionate software developer. I aim to build applications to better serve hundreds of millions of customers.
 
             </p>     
 
@@ -73,7 +72,7 @@
     <div class="about pt-4 p-2">
       <h2 class="text-center pb-2">About Me</h2>
       <ul>
-        <li>Software engineer and Technical writer at <a href="https://tridenstechnology.com/">Tridens Technology</a></li>
+        <li>Experienced in Python, JavaScript and PHP</li>
         <li>Started web development at age 15</li>
         <li>Written over 10+ tech articles/tutorials</li>
         <li>Published a course on <a href="https://www.educative.io/courses/building-robust-applications-test-driven-development-django">Educative Inc.</a></li>
