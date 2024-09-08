@@ -23,11 +23,15 @@
 body {
     background-color: #f8f9fa;
     color: rgb(91, 86, 86);
-    font-family: 'Concert One', cursive;
+    
 }
 
 nav {
     background-color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Concert One', cursive;
 }
 
 .about {
@@ -92,6 +96,14 @@ main ul li {
     text-decoration: underline;
 }
 
+.card-title {
+    font-size: x-large;
+}
+
 .card-text {
-    font-size: small;
+    font-size: normal;
+}
+
+.border-button {
+    text-shadow: 1px 0px 0px white;
 }

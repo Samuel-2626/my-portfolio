@@ -11,9 +11,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="style.css">
     <meta name="author" content="Samuel Torimrio">
-    <meta name="description" content="Software developer experienced in Python and JavaScript.">
+    <meta name="description" content="Software developer experienced in Python, JavaScript, PHP, and SQL">
     <meta name="keywords" content=" Samuel Torimiro, Software Developer">
      <meta name="robots" content="index, follow">
     <title>Samuel Torimiro | Software Developer</title>
@@ -49,19 +49,19 @@
       <div class="container py-3">
         <div class="row">
           <div class="col-md-4">
-            <img src="images/main.jpg" alt="Profile Image" class="main__img img-thumbnail">
+            <img src="images/main.jpeg" alt="Profile Image" class="main__img img-thumbnail">
           </div>
           <div class="col-md-8">
             <h1>Hello there!</h1>
             <p>
-            My name is Samuel Torimiro, I am a passionate software developer. I aim to build applications to better serve hundreds of millions of customers.
+            My name is Samuel Torimiro, I am a skillful software developer. I aim to build applications to better serve hundreds of millions of customers.
 
             </p>     
 
 <br>
 
 
-<a href="https://samueltorimiro.info/Samuel Torimiro Resume.pdf" class="btn btn-lg">My Resume</a>
+<a href="Samuel Torimiro Resume.pdf" class="btn btn-lg">My Resume</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@
     <div class="about pt-4 p-2">
       <h2 class="text-center pb-2">About Me</h2>
       <ul>
-        <li>Experienced in Python, JavaScript and PHP</li>
+        <li>Experienced in Python, JavaScript, PHP, and SQL</li>
         <li>Started web development at age 15</li>
         <li>Written over 10+ tech articles/tutorials</li>
         <li>Published a course on <a href="https://www.educative.io/courses/building-robust-applications-test-driven-development-django">Educative Inc.</a></li>
@@ -93,9 +93,20 @@
   <img src="images/nesa_academy.jpg" class="card-img-top" alt="Nesa Academy">
   <div class="card-body">
     <h5 class="card-title">Nesa Academy</h5>
-    <p class="card-text mt-1">Django, Django REST Framework, Auth0, HTML, CSS, JS, and Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
-    <a href="https://nesaacademy.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+    <p class="card-text mt-1">
+      
+    <b>ABOUT:</b>
+
+    A constructive and inclusive question and answer site built with Python and JavaScript: for economists. 
+      With you every step of your journey.
+
+    <br>
+    <br>
+    
+    <b>TECHNOLOGIES:</b> Django, Django REST Framework, Auth0, HTML, CSS, JS, and Bootstrap.
+  </p>
+    <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://nesaacademy.com/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -104,9 +115,19 @@
   <img src="images/shekelsfieldnig.jpg" class="card-img-top" alt="Shekelsfield Nigeria Limited">
   <div class="card-body">
     <h5 class="card-title">Shekelsfield Nig. Ltd.</h5>
-    <p class="card-text mt-1">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
-    <a href="https://shekelsfieldnig.com/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+    <p class="card-text mt-1">
+    <b>ABOUT:</b>
+
+An agricultural firm website.
+
+<br>
+<br>
+
+<b>TECHNOLOGIES:</b> PHP, JavaScript, HTML, CSS3, and Bootstrap.
+      
+    </p>
+    <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://shekelsfieldnig.com/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -115,9 +136,19 @@
   <img src="images/academic_website.jpg" class="card-img-top" alt="Academic website">
   <div class="card-body">
     <h5 class="card-title">Academic Website</h5>
-    <p class="card-text mt-1">PHP, JavaScript, HTML, CSS, and MaterializeCSS.</p>
-    <a href="https://github.com/Samuel-2626/academic-website" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
-    <a href="https://professortorimiro.info/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+    <p class="card-text mt-1">
+    <b>ABOUT:</b>
+
+A university lecturer portfolio website.
+
+<br>
+<br>
+
+<b>TECHNOLOGIES:</b> PHP, JavaScript, HTML, CSS, and MaterializeCSS.
+      
+    </p>
+    <a href="https://github.com/Samuel-2626/academic-website" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://professortorimiro.info/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -126,9 +157,19 @@
   <img src="images/acrye.jpg" class="card-img-top" alt="ACRYE">
   <div class="card-body">
     <h5 class="card-title">ACRYE</h5>
-    <p class="card-text mt-1">PHP, JavaScript, HTML, CSS3, and Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/acrye" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
-    <a href="https://acrye-ng.org/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+    <p class="card-text mt-1">
+    <b>ABOUT:</b>
+
+A Non-Governmental Organization (NGO) website.
+
+<br>
+<br>
+
+<b>TECHNOLOGIES:</b>  PHP, JavaScript, HTML, CSS3, and Bootstrap.
+     
+    </p>
+    <a href="https://github.com/Samuel-2626/acrye" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://acrye-ng.org/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -139,9 +180,19 @@
   <div class="card-body">
     <h5 class="card-title">PennyTrust Inc.</h5>
 
-      <p class="card-text mt-1">React, Django, Django REST Framework, HTML, CSS, and Bootstrap.</p>
-      <a href="https://github.com/Samuel-2626/PennyTrust-Frontend" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
-      <a href="https://serene-volhard-8a0ea8.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+      <p class="card-text mt-1">
+      <b>ABOUT:</b>
+
+It was meant to be a loan disbursement application.
+
+<br>
+<br>
+
+<b>TECHNOLOGIES:</b>  React, Django, Django REST Framework, HTML, CSS, and Bootstrap.
+        
+      </p>
+      <a href="https://github.com/Samuel-2626/PennyTrust-Frontend" target="_blank" style="float: right;" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
+      <a href="https://serene-volhard-8a0ea8.netlify.app/" target="_blank" style="float: left;" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
     </div>
 </div>
           </div>
@@ -151,9 +202,19 @@
   <img src="images/calculator.this.jpg" class="card-img-top" alt="Calculator.this">
   <div class="card-body">
     <h5 class="card-title">Calculator.This</h5>
-    <p class="card-text mt-1">JavaScript, HTML, CSS, and &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap.</p>
-    <a href="https://github.com/Samuel-2626/calculate.this" style="float: right;"><i class="fa fa-github" style="font-size:25px"></i></a>
-    <a href="https://thisdotcalculate.netlify.app/" style="float: left;"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+    <p class="card-text mt-1">
+    <b>ABOUT:</b>
+
+    A simple utility calculator website.
+
+<br>
+<br>
+
+<b>TECHNOLOGIES:</b>  JavaScript, HTML, CSS, and Bootstrap.
+      
+    </p>
+    <a href="https://github.com/Samuel-2626/calculate.this" target="_blank" style="float: right;" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://thisdotcalculate.netlify.app/" target="_blank" style="float: left;" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
     </div>
 </div>
           </div>
@@ -172,15 +233,15 @@
     <h2 class="text-center pb-2">Articles</h2>
     <p class="text-center">Tech content that resonates with developers</p>
     <div class="row">
-      <div class="col-md-4 pb-3"><a href="https://testdriven.io/blog/django-search/"><img src="images/1.jpg" alt="Basic and Full-text Search with Django and Postgres" class="img-fluid img-thumbnail"></a></div>
-      <div class="col-md-4 pb-3"><a href="https://testdriven.io/blog/multiple-languages-in-django/"><img src="images/2.jpg" alt="Supporting Multiple Languages in Django" class="img-fluid img-thumbnail"></a> </div>
-      <div class="col-md-4 pb-3"><a href="https://www.section.io/engineering-education/how-to-send-email-in-django/"><img src="images/3.jpg" alt="How to Send Emails in Django" class="img-fluid img-thumbnail"></a></div>
-      <div class="col-md-4 pb-3"><a href="https://www.section.io/engineering-education/full-stack-reactive-website-in-django/"><img src="images/4.jpg" alt="Full-Stack Reactive Website in Django (No JavaScript)" class="img-fluid img-thumbnail"></a></div>
-      <div class="col-md-4 pb-3"><a href="https://www.section.io/engineering-education/build-a-contact-form-with-php/"><img src="images/5.jpg" alt="Build a Contact Form with PHP" class="img-fluid img-thumbnail"></a></div>
-      <div class="col-md-4 pb-3"><a href="https://blog.replit.com/deploying-django"><img src="images/6.jpg" alt="Deploying Django to Replit" class="img-fluid img-thumbnail"></a></div>
-      <div class="col-md-4 pb-3"><a href="https://strapi.io/blog/implementing-authenticated-api-requests-to-strapi"><img src="images/7.jpg" alt="Implementing Authenticated API Requests to Strapi" class="img-fluid img-thumbnail"></a></div>
-      <div class="col-md-4 pb-3"><a href="https://community.rapyd.net/t/php-payment-gateway-integration-with-rapyd/35921"><img src="images/8.jpg" alt="PHP Payment Gateway Integration with Rapyd" class="img-fluid img-thumbnail"></a></div>
-      <div class="col-md-4 pb-3"><a href="https://testdriven.io/blog/django-pagination/"><img src="images/9.jpg" alt="Pagination in Django" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://testdriven.io/blog/django-search/" target="_blank"><img src="images/1.jpg" alt="Basic and Full-text Search with Django and Postgres" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://testdriven.io/blog/multiple-languages-in-django/" target="_blank"><img src="images/2.jpg" alt="Supporting Multiple Languages in Django" class="img-fluid img-thumbnail"></a> </div>
+      <div class="col-md-4 pb-3"><a href="https://www.cloudzilla.ai/dev-education/how-to-send-email-in-django/" target="_blank"><img src="images/3.jpg" alt="How to Send Emails in Django" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://www.cloudzilla.ai/dev-education/full-stack-reactive-website-in-django/" target="_blank"><img src="images/4.jpg" alt="Full-Stack Reactive Website in Django (No JavaScript)" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://www.cloudzilla.ai/dev-education/build-a-contact-form-with-php/" target="_blank"><img src="images/5.jpg" alt="Build a Contact Form with PHP" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://blog.replit.com/deploying-django" target="_blank"><img src="images/6.jpg" alt="Deploying Django to Replit" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://strapi.io/blog/implementing-authenticated-api-requests-to-strapi" target="_blank"><img src="images/7.jpg" alt="Implementing Authenticated API Requests to Strapi" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://community.rapyd.net/t/php-payment-gateway-integration-with-rapyd/35921" target="_blank"><img src="images/8.jpg" alt="PHP Payment Gateway Integration with Rapyd" class="img-fluid img-thumbnail"></a></div>
+      <div class="col-md-4 pb-3"><a href="https://testdriven.io/blog/django-pagination/" target="_blank"><img src="images/9.jpg" alt="Pagination in Django" class="img-fluid img-thumbnail"></a></div>
     </div>
     </div>
     </div>
@@ -212,7 +273,7 @@
 <br>
 
 <footer>
-  <p class="text-center">Copyright &copy; 2023 Samuel Torimiro. All Rights Reserved</p>
+  <p class="text-center">Copyright &copy; <?php echo date("Y"); ?> Samuel Torimiro. All Rights Reserved</p>
 </footer>
 
 
