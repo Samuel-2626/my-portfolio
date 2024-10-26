@@ -97,13 +97,12 @@
       
     <b>ABOUT:</b>
 
-    A constructive and inclusive question and answer site built with Python and JavaScript: for economists. 
-      With you every step of your journey.
+    A question and answer site for economists
 
     <br>
     <br>
     
-    <b>TECHNOLOGIES:</b> Django, Django REST Framework, Auth0, HTML, CSS, JS, and Bootstrap.
+    <b>TECHNOLOGIES:</b> Python, Django, Django REST Framework, Auth0, JavaScript and Bootstrap
   </p>
     <a href="https://github.com/Samuel-2626/project_nesa" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://nesaacademy.com/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
@@ -118,40 +117,23 @@
     <p class="card-text mt-1">
     <b>ABOUT:</b>
 
-An agricultural firm website.
+An agricultural firm website
 
 <br>
 <br>
 
-<b>TECHNOLOGIES:</b> PHP, JavaScript, HTML, CSS3, and Bootstrap.
+<b>TECHNOLOGIES:</b> PHP, JavaScript, HTML, CSS3, and Bootstrap
+<br>
+<br>
       
     </p>
     <a href="https://github.com/Samuel-2626/shekelsfield" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://shekelsfieldnig.com/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+
   </div>
 </div>
           </div>
-          <div class="col-md-6 col-lg-4 project pb-5">
-          <div class="card" style="width: 18rem;">
-  <img src="images/academic_website.jpg" class="card-img-top" alt="Academic website">
-  <div class="card-body">
-    <h5 class="card-title">Academic Website</h5>
-    <p class="card-text mt-1">
-    <b>ABOUT:</b>
-
-A university lecturer portfolio website.
-
-<br>
-<br>
-
-<b>TECHNOLOGIES:</b> PHP, JavaScript, HTML, CSS, and MaterializeCSS.
-      
-    </p>
-    <a href="https://github.com/Samuel-2626/academic-website" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
-    <a href="https://professortorimiro.info/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
-  </div>
-</div>
-          </div>
+         
           <div class="col-md-6 col-lg-4 project pb-5">
           <div class="card" style="width: 18rem;">
   <img src="images/acrye.jpg" class="card-img-top" alt="ACRYE">
@@ -160,16 +142,43 @@ A university lecturer portfolio website.
     <p class="card-text mt-1">
     <b>ABOUT:</b>
 
-A Non-Governmental Organization (NGO) website.
+A Non-Governmental Organization (NGO) website
 
 <br>
 <br>
 
-<b>TECHNOLOGIES:</b>  PHP, JavaScript, HTML, CSS3, and Bootstrap.
+<b>TECHNOLOGIES:</b>  PHP, JavaScript, HTML, CSS3, and Bootstrap
+<br>
+<br>
      
     </p>
     <a href="https://github.com/Samuel-2626/acrye" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
     <a href="https://acrye-ng.org/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
+  </div>
+</div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 project pb-5">
+          <div class="card" style="width: 18rem;">
+  <img src="images/academic_website.jpg" class="card-img-top" alt="Academic website">
+  <div class="card-body">
+    <h5 class="card-title">Academic Website</h5>
+    <p class="card-text mt-1">
+    <b>ABOUT:</b>
+
+A university lecturer portfolio website
+
+<br>
+<br>
+
+<b>TECHNOLOGIES:</b> PHP, JavaScript, HTML, CSS, and MaterializeCSS
+
+<br>
+<br>
+      
+    </p>
+    <a href="https://github.com/Samuel-2626/academic-website" style="float: right;" target="_blank" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
+    <a href="https://professortorimiro.info/" style="float: left;" target="_blank" class="border-button"><i class="fa fa-external-link" style="font-size:25px"></i></a>
   </div>
 </div>
           </div>
@@ -183,12 +192,13 @@ A Non-Governmental Organization (NGO) website.
       <p class="card-text mt-1">
       <b>ABOUT:</b>
 
-It was meant to be a loan disbursement application.
+It was meant to be a loan disbursement application
 
 <br>
 <br>
 
-<b>TECHNOLOGIES:</b>  React, Django, Django REST Framework, HTML, CSS, and Bootstrap.
+<b>TECHNOLOGIES:</b>  React, Django, Django REST Framework, HTML, CSS, and Bootstrap
+
         
       </p>
       <a href="https://github.com/Samuel-2626/PennyTrust-Frontend" target="_blank" style="float: right;" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
@@ -205,12 +215,14 @@ It was meant to be a loan disbursement application.
     <p class="card-text mt-1">
     <b>ABOUT:</b>
 
-    A simple utility calculator website.
+    A simple utility calculator website
 
 <br>
 <br>
 
-<b>TECHNOLOGIES:</b>  JavaScript, HTML, CSS, and Bootstrap.
+<b>TECHNOLOGIES:</b>  JavaScript, HTML, CSS, and Bootstrap
+<br>
+<br>
       
     </p>
     <a href="https://github.com/Samuel-2626/calculate.this" target="_blank" style="float: right;" class="border-button"><i class="fa fa-github" style="font-size:25px"></i></a>
